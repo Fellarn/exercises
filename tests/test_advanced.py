@@ -14,4 +14,10 @@ def test_factorial():
 
 
 @pytest.mark.skip('Not yet implemented.')
-def test_yahtzee_score ():
+def test_yahtzee_score():
+    pass  # Här skriver du som elev tester till uppgiften.
+
+
+@pytest.mark.skip('Not yet implemented.')
+def test_blackjack_score():
+    pass  # Här skriver du som elev tester till uppgiften.
